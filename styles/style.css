@@ -363,6 +363,7 @@ color:white;
   flex-direction: row;
   align-items: baseline;
   justify-content: space-evenly;
+  color: white;
   }
 
 .table__cell_theme_dark {
