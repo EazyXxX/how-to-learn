@@ -392,13 +392,10 @@ float: left;
 }
 
 .table__text_theme_dark {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  margin-top: 20px;
-line-height: 1.2;
 font-size: 18px;
 font-weight: normal;
+margin-top: 20px;
+line-height: 1.2;
 margin-bottom: 0px;
 }
 
@@ -426,7 +423,6 @@ margin-bottom: 0px;
     float: left;
     margin-top: 20px;
     flex-direction: column;
-    line-height: 1.2;
     font-size: 18px;
     font-weight: normal;
   }
