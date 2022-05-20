@@ -22,6 +22,9 @@
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/oakley/__two-columns/oakley__two-columns.css);
+@import url(../blocks/oakley/__two-columns-brief/oakley__two-columns-brief.css);
+@import url(../blocks/oakley/__two-columns-main-text/oakley__two-columns-main-text.css);
+@import url(../blocks/oakley/__two-columns-paragraph/oakley__two-columns-paragraph.css);
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__image/feynman__image.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
