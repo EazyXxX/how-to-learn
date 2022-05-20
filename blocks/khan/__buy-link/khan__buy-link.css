@@ -1,0 +1,22 @@
+.khan__buy-link {
+line-height: 42px;
+font-size: 30px;
+font-weight: normal;
+color: #2f80ed;
+}
+
+.khan__buy-link:link {
+color: #2f80ed;
+}
+
+.khan__buy-link:visited {
+color: #8b00ff;
+}
+
+.khan__buy-link:hover {
+color: #00f;
+}
+
+.khan__buy-link:active {
+color: #f00;
+}
