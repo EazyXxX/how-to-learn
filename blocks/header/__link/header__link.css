@@ -12,7 +12,12 @@ color: #8b00ff;
 }
 
 .header__link:hover {
-color: #00f;
+opacity: 80%;
+transition: opacity .1s ease-in-out;
+-webkit-transition: opacity .1s ease-in-out;
+-moz-transition: opacity .1s ease-in-out;
+-ms-transition: opacity .1s ease-in-out;
+-o-transition: opacity .1s ease-in-out;
 }
 
 .header__link:active {
