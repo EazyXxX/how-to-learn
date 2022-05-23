@@ -3,13 +3,10 @@ text-align: center;
 flex-direction: column;
 align-items: center;
 padding: 0;
-
-border-style: solid;
-border-width: 1px;
-border-color: red;
+width: 240px;
+margin-right: 100px;
 }
 
-.cards__item:nth-of-type(5n+5) {
-margin-right: auto;
-margin-left: 100px;
+.cards__item:nth-of-type(3n+3) {
+margin-right: 0px;
 }
