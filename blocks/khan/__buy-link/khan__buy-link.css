@@ -4,6 +4,11 @@ font-size: 30px;
 font-weight: normal;
 color: #2f80ed;
 text-decoration: none;
+transition: opacity .1s ease-in-out;
+-webkit-transition: opacity .1s ease-in-out;
+-moz-transition: opacity .1s ease-in-out;
+-ms-transition: opacity .1s ease-in-out;
+-o-transition: opacity .1s ease-in-out;
 }
 
 .khan__buy-link:link {
@@ -16,11 +21,6 @@ color: #8b00ff;
 
 .khan__buy-link:hover {
 opacity: 80%;
-transition: opacity .1s ease-in-out;
--webkit-transition: opacity .1s ease-in-out;
--moz-transition: opacity .1s ease-in-out;
--ms-transition: opacity .1s ease-in-out;
--o-transition: opacity .1s ease-in-out;
 }
 
 .khan__buy-link:active {
